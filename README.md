@@ -60,4 +60,3 @@ Me chamo Stefanny Brito, tenho 25 anos e sou natural de Pernambuco/Recife. Atual
 <br/>
 <br/>
 
-### 📊 Estatísticas
