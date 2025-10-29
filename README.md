@@ -1,5 +1,5 @@
 ##👩🏻‍💻 Stefanny 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora em aprendizagem`**
 
 Me chamo Stefanny Brito, tenho 25 anos e sou natural de Pernambuco/Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na estacio de sá no ultimo periodo, logo logo irei ingressar em uma pós graduação voltada a aréa de dados, estou me apaixonando cada dia por tecnologias em diversos aspectos a caminho do meu futuro.
 
