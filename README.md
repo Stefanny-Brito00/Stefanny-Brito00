@@ -1,7 +1,7 @@
 ##👩🏻‍💻 Stefanny Brito
 **`Desenvolvedora full stack`**
 
-Me chamo Stefanny Brito, tenho 25 anos sou natural de Pernambuco/Recife. Atualmente, Formada em Análise e Desenvolvimento de Sistemas na estacio de sá , logo logo irei ingressar em uma pós graduação voltada a aréa de dados, estou me apaixonando cada dia por tecnologias em diversos aspectos a caminho do meu futuro.
+Me chamo Stefanny Brito, tenho 26 anos sou natural de Pernambuco/Recife. Atualmente, Formada em Análise e Desenvolvimento de Sistemas , atualmente estou em uma pós graduação voltada a aréa de dados (Cesar School), estou me apaixonando cada dia por tecnologias em diversos aspectos a caminho do meu futuro.
 
 
 ---
